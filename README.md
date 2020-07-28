@@ -1,4 +1,4 @@
-## About Laravel
+## Installation
 
 git clone https://github.com/larko300/ExcelImportApp.git
 
