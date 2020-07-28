@@ -13,4 +13,6 @@
 
 Route::get('/', function () {
     return view('welcome');
-});
+})->name('index');
+
+Route::post('/import', 'ProductController@import')->name('import');
